@@ -1,27 +1,32 @@
 h1 {
-	color: #b6b5c7;
+	color: #86b9bf;
 }
+
 div {
-	border: #0d03ab 10px solid;
-	background: #5449f5 ;
-	padding: 36px;
+	border: white 3px solid;
+	background: #6658fc;
+	padding: 15px;
 }
-a {
-	color: white;
-	text-decoration: solid;
-	padding-left: 36px;
-}
+
 h2 {
 	color: black;
 }
-.icho {
+
+a{
 	color: white;
+	text-decoration: none;
 }
+
+img {
+	width: 230px;
+	border-radius: 25px;
+}
+
 p {
 	font-style: italic;
-	color: blue;
 }
-img {
-	border: black 10px solid ;
-	border-radius: 30px;
+
+
+.Zapisi {
+	color: white;
 }

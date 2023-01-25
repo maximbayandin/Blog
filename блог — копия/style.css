@@ -1,0 +1,32 @@
+h1 {
+	color: #86b9bf;
+}
+
+div {
+	border: white 3px solid;
+	background: #6658fc;
+	padding: 15px;
+}
+
+h2 {
+	color: black;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+img {
+	width: 230px;
+	border-radius: 25px;
+}
+
+p {
+	font-style: italic;
+}
+
+
+.Zapisi {
+	color: white;
+}
